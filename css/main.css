@@ -1,0 +1,146 @@
+.logo {
+  margin-top: 0;
+  margin-right: 200px;
+}
+body {
+  font-family: "Roboto";
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+.header-nav {
+  display: inline-block;
+  margin-top: 0;
+  vertical-align: top;
+}
+.header-list {
+  list-style: none;
+  margin-top: 0;
+}
+.list-item {
+  display: inline-block;
+  vertical-align: top;
+}
+.header-link {
+  display: inline-block;
+  margin-right: 65px;
+  text-decoration: none;
+  vertical-align: top;
+  font-weight: 400;
+  font-size: 14px;
+  color: #555248;
+  line-height: 16px; 
+}
+.header-icon {
+  display: inline-block;
+  vertical-align: top;
+  align-items: flex-end;
+  margin-left: 200px;
+}
+/* hero */
+.mini-div {
+  display: inline-block;
+  vertical-align: top;
+}
+.big-shrift {
+  margin-top: 230px;
+}
+.hero-text {
+  width: 258px;
+  color: #1B1A17;
+  font-weight: 300;
+  font-size: 14px;
+  margin-top: 39px;
+}
+.hero-link {
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  text-decoration: none;
+  margin-top: 34px;
+}
+.intro-img {
+  display: inline-block;
+  margin-left: 134px;
+}
+/* section */
+.big-shrift {
+  display: flex;
+  justify-content: center;
+}
+.section-watch {
+  margin-right: 20px;
+}
+/* section */
+.other-section {
+  display: inline-block;
+  margin-top: 52px;
+}
+.other-div {
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 69px;
+}
+.other-text {
+  color: #444240;
+  width: 376px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.other-link {
+  color: #000;
+  font-weight: 400;
+  font-size: 14px;
+}
+/* section */
+.great-div {
+  width: 421px;
+  display: inline-block;
+  margin-top: 222px;
+}
+.paragraph {
+  width: 376px;
+  font-family:"Roboto";
+  font-weight: 700;
+  margin-top: 40px;
+  margin-bottom: 124px;
+}
+.mini-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+/* .super {} */
+.nice {
+  display: inline-block;
+}
+.nice-next {
+  align-items: end;
+  display: inline-block;
+}
+/* section  */
+.continue-div {
+  display: inline-block;
+  margin-top: 67px;
+}
+.next-div {
+  display: inline-block;
+  background-color: #444240;
+  color: #FFFFFF;
+  width: 1366px;
+}
+.footer-list {
+  display: inline-block;
+  margin-left: 0px;
+}
+.footer-item {
+  text-decoration: none;
+}
+.footer-link {
+  text-decoration: none;
+  color: #fff;
+}
